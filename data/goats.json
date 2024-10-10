@@ -1,0 +1,52 @@
+[
+    {
+        "breed": "Alpine",
+        "origin": "French Alps",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Chevres_alpines_au_paturage_en_region_Centre.jpg"
+    },
+    {
+        "breed": "Australian Cashmere",
+        "origin": "Australia",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Australian_cashmere_goat.png"
+    },
+    {
+        "breed": "Chamoisée",
+        "origin": "Switzerland",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/G%C3%A4mse_mit_Glocke.JPG"
+    },
+    {
+        "breed": "Danish Landrace",
+        "origin": "Denmark",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hjerl_Hede_-_goat.jpg"
+    },
+    {
+        "breed": "Moxotó",
+        "origin": "Northeastern Brazil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mountain_Goat_USFWS.jpg"
+    },
+    {
+        "breed": "Pygmy",
+        "origin": "Cameroon",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pygmy_Goats_Seattle_Zoo.jpg"
+    },
+    {
+        "breed": "Sokoto Red",
+        "origin": "Nigeria",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_Sokoto_Goats_by_Buhari_Habibu.jpg"
+    },
+    {
+        "breed": "Sirohi",
+        "origin": "Parvatsari",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Spotted_Sirohi.jpg"
+    },
+    {
+        "breed": "Spanish",
+        "origin": "Spain",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/U_Wash_-_goats_04.jpg"
+    },
+    {
+        "breed": "Toggenburg",
+        "origin": "Toggenburg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Toggenburger.jpg"
+    }
+]

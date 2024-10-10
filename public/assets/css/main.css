@@ -1,0 +1,10 @@
+.goat-card {
+    width: 18rem;
+}
+
+.goat-card img {
+    background: #777;
+    object-fit:scale-down;
+    margin-bottom: 1rem;
+    max-height: 200px;
+}
